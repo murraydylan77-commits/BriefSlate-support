@@ -50,6 +50,10 @@ These features use Apple Intelligence, which runs on your device. They appear on
 
 Type `[[` followed by a note's name to link to it. If you later rename or move that note, BriefSlate updates the links for you.
 
+## Future plans?
+
+Iphone Duo optimization and MacOS support is currently in development
+
 ## Privacy
 
 BriefSlate doesn't collect your data. There are no accounts, ads, or tracking. Read the full [Privacy Policy](privacy).
